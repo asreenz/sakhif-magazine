@@ -17,7 +17,3 @@ li {
     display: inline-block;
     position: fixed;
 }
-
-li#hometab {
-    text-align: left;
-}
