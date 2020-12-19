@@ -15,4 +15,9 @@ p {
 li {
     list-style: none;
     display: inline-block;
+    position: fixed;
+}
+
+li#home {
+    float: left;
 }
