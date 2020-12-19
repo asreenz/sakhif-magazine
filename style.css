@@ -19,5 +19,5 @@ li {
 }
 
 li#home {
-    float: left;
+    text-align: left;
 }
